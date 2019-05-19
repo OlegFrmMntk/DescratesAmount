@@ -1,0 +1,9 @@
+﻿  Vad.cpp
+d:\program_vc\vad\vad\vad.cpp(49): warning C4018: <: несоответствие типов со знаком и без знака
+d:\program_vc\vad\vad\vad.cpp(50): warning C4018: <: несоответствие типов со знаком и без знака
+d:\program_vc\vad\vad\vad.cpp(53): warning C4018: <: несоответствие типов со знаком и без знака
+d:\program_vc\vad\vad\vad.cpp(54): warning C4018: <: несоответствие типов со знаком и без знака
+d:\program_vc\vad\vad\vad.cpp(59): warning C4018: <: несоответствие типов со знаком и без знака
+d:\program_vc\vad\vad\vad.cpp(64): warning C4018: <: несоответствие типов со знаком и без знака
+d:\program_vc\vad\vad\vad.cpp(68): warning C4018: <: несоответствие типов со знаком и без знака
+  Vad.vcxproj -> D:\Program_VC\Vad\Debug\Vad.exe
